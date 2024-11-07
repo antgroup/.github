@@ -4,7 +4,7 @@
 
 Ant Group, the leading supplier of online financial services in China, has been involved in open-source initiatives since it was founded. We continually encourage the growth of open-source communities.
 
-Ant Group offers a high value on open-source communities. According to our vision, "Create future-ready digital infrastructure for the service industry, and bring small and beautiful changes to the world. " Also, we aspire to make small contributions and changes to open-source communities.
+Ant Group offers a high value on open-source communities too. According to our vision, "Create future-ready digital infrastructure for the service industry, and bring small and beautiful changes to the world. " Also, we aspire to make small contributions and changes to open-source communities.
 
 The Ant Group is committed to open source and has released numerous kinds of projects, which are included below.
 
