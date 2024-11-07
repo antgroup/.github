@@ -23,6 +23,6 @@ The Ant Group is committed to open source and has released numerous kinds of pro
 ## 云原生 / Cloud Native
 
 
-最后，如果您对蚂蚁集团感兴趣，欢迎您加入我们；或者您也可以联系我们，我们开源办公室的邮箱 xxx@antgroup.com 。
+最后，如果您对蚂蚁集团感兴趣，欢迎您加入我们；或者您也可以联系我们，我们开源办公室的邮箱 `ospo@antgroup.com` 。
 
-Finally, if you are interested in Ant Group we welcome you to join us, or you may contact us at xxx@antgroup.com.
+Finally, if you are interested in Ant Group we welcome you to join us, or you may contact us at `ospo@antgroup.com`.
