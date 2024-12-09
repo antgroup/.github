@@ -1,4 +1,4 @@
-# Ant Group 🩷 Open-Source Community
+# Ant Group 🩷 Community
 
 🌐️ English | [中文](README_CN.md)
 
