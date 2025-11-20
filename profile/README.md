@@ -27,6 +27,7 @@ The Ant Group is committed to open source and has released numerous kinds of pro
 - [TuGraph](https://github.com/tugraph-family): A High Performance Graph Database.
 
 ## Trust Native Security
+- ✨[YASA](https://github.com/antgroup/YASA-Engine): A highly accurate static program analysis framework built on top of [UAST（Unified Abstract Syntax Tree）](https://github.com/antgroup/YASA-UAST)
 - [SecretFlow](https://github.com/secretflow): A unified framework for privacy-preserving data analysis and machine learning.
 - [Asterinas](https://github.com/asterinas): A secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 - [Tongsuo](https://github.com/Tongsuo-Project): A Modern Cryptographic Primitives and Protocols Library.
