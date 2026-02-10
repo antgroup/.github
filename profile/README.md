@@ -6,7 +6,7 @@ Ant Group, the leading supplier of online financial services in China, has been 
 
 Ant Group offers a high value on open-source communities too. According to our vision, "Create future-ready digital infrastructure for the service industry, and bring small and beautiful changes to the world. " Also, we aspire to make small contributions and changes to open-source communities.
 
-The Ant Group is committed to open source and has released numerous kinds of projects, which are included below.
+The company is committed to open source and has released numerous kinds of projects, which are included below.
 
 ## Human-Computer Interaction
 - [Ant Design](https://github.com/ant-design): A UI Design Language.
@@ -15,6 +15,7 @@ The Ant Group is committed to open source and has released numerous kinds of pro
 - [Eggjs](https://github.com/eggjs): A web framework's framework for Node.js.
 
 ## Artificial Intelligence
+- ✨[inclusionAI](https://github.com/inclusionAI): Dedicated towards advancing AGI, including LLMs, RL and agentic systems, and other AGI-related frameworks or applications.
 - [DB-GPT](https://github.com/eosphoros-ai): Building Open AI-Native Data Infrastructure.
 - [CodeFuse](https://github.com/codefuse-ai): Develop Code Large Language Models (Code LLMs) to support and enhance full-lifecycle AI native software development.
 - [VSAG](https://github.com/alipay/vsag): A vector indexing library used for similarity search.
