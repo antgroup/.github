@@ -36,3 +36,6 @@ The Ant Group is committed to open source and has released numerous kinds of pro
 For more projects, please visit the [Ant Group open source website](https://opensource.antgroup.com/en/projects).
 
 Finally, if you are interested in Ant Group we welcome you to join us, or you may contact us at `ospo@antgroup.com`.
+
+![https://ospo-insights.oss-cn-hangzhou.aliyuncs.com/antgroup.gif](https://ospo-insights.oss-cn-hangzhou.aliyuncs.com/antgroup.gif)
+
