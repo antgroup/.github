@@ -24,7 +24,7 @@
 
 - <img src="https://github.com/codefuse-ai.png?size=16" width="16" height="16" alt="CodeFuse"> **[CodeFuse](https://github.com/codefuse-ai)** — 开发代码大语言模型（Code LLM），支持并增强 AI 原生软件开发全生命周期，涵盖设计、编码、测试、部署、运维和洞察分析。
 
-- <img src="https://github.com/alipay.png?size=16" width="16" height="16" alt="VSAG"> **[VSAG](https://github.com/antgroup/vsag)** — 向量索引库，可针对不同规模的向量集合进行高效相似性搜索，为 AI/ML 检索和 RAG 工作负载提供支持。
+- <img src="https://github.com/antgroup.png?size=16" width="16" height="16" alt="VSAG"> **[VSAG](https://github.com/antgroup/vsag)** — 向量索引库，可针对不同规模的向量集合进行高效相似性搜索，为 AI/ML 检索和 RAG 工作负载提供支持。
 
 - <img src="https://github.com/agentuniverse-ai.png?size=16" width="16" height="16" alt="agentUniverse"> **[agentUniverse](https://github.com/agentuniverse-ai/agentuniverse)** — 大语言模型多智能体框架，提供灵活的智能体组件和丰富的协作模式（PEER/DOE），便于融入领域专业知识；源于蚂蚁集团金融业务实践。
 

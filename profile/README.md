@@ -24,7 +24,7 @@ The Ant Group is committed to open source and has released numerous kinds of pro
 
 - <img src="https://github.com/codefuse-ai.png?size=16" width="16" height="16" alt="CodeFuse"> **[CodeFuse](https://github.com/codefuse-ai)** — Develops Code Large Language Models (Code LLMs) to support and enhance full-lifecycle AI-native software development, covering design, coding, testing, deployment, operations and insight analysis.
 
-- <img src="https://github.com/alipay.png?size=16" width="16" height="16" alt="VSAG"> **[VSAG](https://github.com/antgroup/vsag)** — A vector indexing library used for efficient similarity search across vector sets of various sizes, powering AI/ML retrieval and RAG workloads.
+- <img src="https://github.com/antgroup.png?size=16" width="16" height="16" alt="VSAG"> **[VSAG](https://github.com/antgroup/vsag)** — A vector indexing library used for efficient similarity search across vector sets of various sizes, powering AI/ML retrieval and RAG workloads.
 
 - <img src="https://github.com/agentuniverse-ai.png?size=16" width="16" height="16" alt="agentUniverse"> **[agentUniverse](https://github.com/agentuniverse-ai/agentuniverse)** — An LLM multi-agent framework providing flexible agent components and rich collaborative patterns (PEER/DOE) to integrate domain expertise; originated from Ant Group's financial business practices.
 
